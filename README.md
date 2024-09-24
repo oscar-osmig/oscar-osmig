@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscar-osmig
 - 👀 I’m interested in writing poetry, drawing, paiting, music, Software Engineering, and Mechatronics.
-- 🌱 I’m currently learning Python and Web Developement.
-- 💞️ I’m looking forward to become a very good programmer and innovate in that area.
+- 🌱 I’m currently learning Java and MySQL for backend, I aspired to become an app developer.
+- 💞️ I’m looking forward to become a very good programmer and innovate in app development.
 - 📫 reach me: torresosmig@gmail.com.
 
 <!---
