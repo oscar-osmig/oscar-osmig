@@ -23,15 +23,15 @@ I have a deep appreciation for both the arts and the sciences, and I constantly 
 I am currently focused on mastering the following:
 
 - *Languages*:
-  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) Java
-  - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) C++
-  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Python
+  - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+  - ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+  - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 
 - *Technologies*:
-  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) MySQL
-  - ![Workbench](https://img.shields.io/badge/Workbench-3185B2?style=for-the-badge&logo=mysql&logoColor=white) MySQL Workbench
-  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Postman
-  - ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) VSCode
+  - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+  - ![Workbench](https://img.shields.io/badge/Workbench-3185B2?style=for-the-badge&logo=mysql&logoColor=white) 
+  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  - ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ## My Journey  🚀
 - *Learning Path: Diving into **Java, **C++, and **Python* for backend development and *MySQL* for efficient database management.
@@ -43,7 +43,7 @@ I am deeply motivated by the potential of technology to create meaningful change
 ## Get in Touch 📬
 I would love to connect and collaborate. Feel free to reach out to me at:
 
--  *Email*: [osmig47g@gmail.com](mailto:torresosmig@gmail.com) 📧
+-  *Email*: [osmig47g@gmail.com](mailto:osmig47@gmail.com) 📧
 
 ---
 
