@@ -41,12 +41,15 @@
 ---
 
 <!-- Technologies -->
+<!-- Technologies -->
 <h3 align="center">Technologies:</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" height="45" />
   <img src="https://img.shields.io/badge/Workbench-3185B2?style=for-the-badge&logo=mysql&logoColor=white" alt="Workbench logo" height="45" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman logo" height="45" />
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode logo" height="45" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git logo" height="45" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub logo" height="45" />
 </div>
 
 ---
